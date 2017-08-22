@@ -1,0 +1,14 @@
+#wraper{
+    height: 600px;
+    width: 593px;
+    background-color: aqua
+}
+.contentBox{
+    height: 200px;
+    width: 100%;
+    background-color: cornflowerblue
+    text-align: center;
+}
+.textcolor{
+    color: red;
+}
